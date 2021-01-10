@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+import 'jquery/dist/jquery.js'
+import 'bootstrap/dist/js/bootstrap'
+import '@popperjs/core/dist/cjs/popper'
